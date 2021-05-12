@@ -41,8 +41,8 @@ layout: home
 </div>
 <br>
 <div>
-  <p>Por ej. en el mapa anterior, desde la fuente de amianto a donde juegan y comparten niñas, niños, y familias hay...<b>30 metros<b></p>
-    <br>
+  <p>Por ej. en el mapa anterior, desde la fuente de amianto a donde juegan y comparten niñas, niños, y familias hay...<b>30 metros</b></p>
+  <br>
   <img src="assets/measure.png" width="50%" height="50%" class="center">
 </div>
 <br>
