@@ -37,7 +37,7 @@ layout: home
 </p>
 <br>
 <div>
-  {% google_map src="_data" zoom="18"%}
+  {% google_map src="_data" zoom="18" %}
 </div>
 <br>
 <div>
